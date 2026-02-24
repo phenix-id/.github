@@ -81,7 +81,7 @@ Facilitates secure, asynchronous communication between identity agents using the
 </tr>
 </table>
 
-Built on [Hyperledger Aries](https://www.hyperledger.org/projects/aries) and [Credo](https://github.com/openwallet-foundation/credo-ts) frameworks for standards-compliant, interoperable decentralized identity.
+Built on [Aries](https://identity.foundation/aries-rfcs/latest/) and [Credo](https://github.com/openwallet-foundation/credo-ts) frameworks for standards-compliant, interoperable decentralized identity.
 
 ---
 
