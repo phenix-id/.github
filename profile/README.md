@@ -1,4 +1,4 @@
-# <p align="center"><img src="profile/Phenix_Logo.png" alt="Phenix Logo" width="400"></p>
+# <p align="center"><img src="Phenix_Logo.png" alt="Phenix Logo" width="400"></p>
 
 <p align="center">
   <strong>Building a secure, inclusive, and privacy-first digital future.</strong><br>
